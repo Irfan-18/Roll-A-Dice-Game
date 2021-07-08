@@ -5,6 +5,8 @@ when 1 appears on dice player losses the current score and the turn is passed to
 when  the total score of either of the player reaches 50 the player wins the game.
 Using the New Game button all the values will be reset to initial values and user can start the new game. 
 
+How to Run : Open or run the index.html file
+
 
 
 Screenshots:
