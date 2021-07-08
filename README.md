@@ -4,6 +4,9 @@ The players start the game by rolling the dice and then can store their scores u
 when 1 appears on dice player losses the current score and the turn is passed to the other player.
 when  the total score of either of the player reaches 50 the player wins the game.
 Using the New Game button all the values will be reset to initial values and user can start the new game. 
+
+
+
 Screenshots:
 
 ![image](https://user-images.githubusercontent.com/48233404/124875665-caa1b700-dfe6-11eb-9ea9-04e434a2740c.png)
